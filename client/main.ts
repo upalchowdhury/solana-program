@@ -1,1 +1,0 @@
-// this is main function for calling web3 lib
